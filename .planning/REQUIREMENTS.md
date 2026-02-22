@@ -105,8 +105,8 @@ Deferred to post-V1 release. Tracked but not in current roadmap.
 | DEPL-04 | Phase 1 | Pending |
 | DEPL-05 | Phase 1 | Pending |
 | DEPL-06 | Phase 1 | Pending |
-| DEPL-07 | Phase 5 | Pending |
-| DEPL-08 | Phase 1 | Pending |
+| DEPL-07 | Phase 6 | Pending |
+| DEPL-08 | Phase 6 | Pending |
 | DEPL-09 | Phase 3 | Pending |
 | CONF-01 | Phase 2 | Pending |
 | CONF-02 | Phase 2 | Pending |
@@ -129,14 +129,14 @@ Deferred to post-V1 release. Tracked but not in current roadmap.
 | QUAL-01 | Phase 6 | Pending |
 | QUAL-02 | Phase 1 | Pending |
 | QUAL-03 | Phase 1 | Pending |
-| QUAL-04 | Phase 1 | Pending |
+| QUAL-04 | Phase 6 | Pending |
 | QUAL-05 | Phase 1 | Pending |
 
 **Coverage:**
-- v1 requirements: 28 total
-- Mapped to phases: 28
-- Unmapped: 0 ✓
+- v1 requirements: 32 total
+- Mapped to phases: 32
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-02-22*
-*Last updated: 2026-02-22 after initial definition*
+*Last updated: 2026-02-22 after roadmap creation*
